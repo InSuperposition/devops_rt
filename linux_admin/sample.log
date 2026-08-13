@@ -1,0 +1,88 @@
+2026-07-20 03:15:06 INFO cron[1816]: job backup.sh finished ok from 192.0.2.146
+2026-07-20 03:22:03 ERROR app[6068]: database connection refused for request from 192.0.2.146
+2026-07-20 03:37:45 ERROR sshd[4356]: Failed password for root from 198.51.100.23
+2026-07-20 03:41:29 INFO app[6055]: healthcheck ok for request from 198.51.100.23
+2026-07-20 03:56:41 INFO cron[7382]: job backup.sh finished ok from 203.0.113.7
+2026-07-20 03:59:14 INFO app[8417]: healthcheck ok for request from 203.0.113.7
+2026-07-20 04:12:03 ERROR sshd[4940]: Failed password for root from 198.51.100.23
+2026-07-20 04:24:54 WARNING sshd[5204]: Connection reset by peer from 192.0.2.146
+2026-07-20 04:31:11 WARNING sshd[7443]: Connection reset by peer from 203.0.113.7
+2026-07-20 04:39:59 INFO sshd[3166]: Accepted password for deploy from 192.0.2.146
+2026-07-20 04:54:47 ERROR sshd[1671]: Failed password for admin from 198.51.100.23
+2026-07-20 05:08:25 INFO sshd[3521]: Accepted password for deploy from 203.0.113.7
+2026-07-20 05:15:06 INFO cron[1940]: job backup.sh finished ok from 203.0.113.99
+2026-07-20 05:24:14 ERROR sshd[8568]: Failed password for root from 192.0.2.146
+2026-07-20 05:35:57 ERROR sshd[1088]: Failed password for root from 192.0.2.146
+2026-07-20 05:48:52 WARNING app[9697]: slow response 1502ms for request from 198.51.100.23
+2026-07-20 05:50:53 ERROR sshd[6473]: Failed password for root from 192.0.2.146
+2026-07-20 05:58:44 ERROR sshd[3491]: Failed password for root from 198.51.100.23
+2026-07-20 06:07:23 INFO sshd[5215]: Accepted password for deploy from 192.0.2.146
+2026-07-20 06:23:04 WARNING app[9217]: slow response 1502ms for request from 198.51.100.23
+2026-07-20 06:37:32 INFO sshd[5789]: Accepted password for deploy from 203.0.113.99
+2026-07-20 06:40:15 INFO cron[4158]: job backup.sh finished ok from 203.0.113.7
+2026-07-20 06:49:34 ERROR sshd[3546]: Failed password for root from 198.51.100.4
+2026-07-20 07:05:21 INFO app[9589]: healthcheck ok for request from 203.0.113.7
+2026-07-20 07:13:48 INFO sshd[6210]: Accepted password for deploy from 198.51.100.23
+2026-07-20 07:28:54 INFO sshd[6847]: Accepted password for deploy from 198.51.100.4
+2026-07-20 07:33:06 INFO app[5938]: healthcheck ok for request from 198.51.100.23
+2026-07-20 07:34:40 INFO sshd[2190]: Accepted password for deploy from 192.0.2.146
+2026-07-20 07:47:45 WARNING app[2033]: slow response 1502ms for request from 198.51.100.23
+2026-07-20 07:50:03 WARNING sshd[2960]: Connection reset by peer from 192.0.2.146
+2026-07-20 07:54:41 INFO cron[3605]: job backup.sh finished ok from 198.51.100.23
+2026-07-20 07:58:24 WARNING sshd[7832]: Connection reset by peer from 192.0.2.201
+2026-07-20 08:10:41 INFO app[4195]: healthcheck ok for request from 198.51.100.23
+2026-07-20 08:18:16 ERROR sshd[7018]: Failed password for root from 203.0.113.99
+2026-07-20 08:20:26 INFO app[8297]: healthcheck ok for request from 203.0.113.7
+2026-07-20 08:26:19 ERROR sshd[1949]: Failed password for root from 203.0.113.7
+2026-07-20 08:36:28 INFO sshd[4670]: Accepted password for deploy from 203.0.113.7
+2026-07-20 08:48:39 INFO sshd[2063]: Accepted password for deploy from 203.0.113.99
+2026-07-20 08:49:55 INFO cron[4650]: job backup.sh finished ok from 198.51.100.23
+2026-07-20 08:51:14 INFO app[6313]: healthcheck ok for request from 198.51.100.23
+2026-07-20 09:02:46 ERROR sshd[5462]: Failed password for admin from 203.0.113.7
+2026-07-20 09:05:08 ERROR sshd[9734]: Failed password for admin from 198.51.100.23
+2026-07-20 09:09:23 WARNING app[8644]: slow response 1502ms for request from 203.0.113.99
+2026-07-20 09:12:44 WARNING app[7569]: slow response 1502ms for request from 203.0.113.7
+2026-07-20 09:18:53 INFO sshd[7962]: Accepted password for deploy from 203.0.113.7
+2026-07-20 09:33:44 ERROR sshd[8551]: Failed password for admin from 198.51.100.23
+2026-07-20 09:34:53 WARNING app[2512]: slow response 1502ms for request from 198.51.100.23
+2026-07-20 09:48:39 ERROR sshd[6459]: Failed password for root from 203.0.113.7
+2026-07-20 09:52:02 ERROR app[4973]: database connection refused for request from 192.0.2.146
+2026-07-20 09:54:32 INFO sshd[8250]: Accepted password for deploy from 203.0.113.7
+2026-07-20 10:02:32 ERROR sshd[5463]: Failed password for admin from 203.0.113.7
+2026-07-20 10:10:12 ERROR sshd[2135]: Failed password for root from 203.0.113.7
+2026-07-20 10:11:10 WARNING app[2504]: slow response 1502ms for request from 192.0.2.146
+2026-07-20 10:25:33 INFO cron[9756]: job backup.sh finished ok from 192.0.2.146
+2026-07-20 10:38:31 INFO sshd[2428]: Accepted password for deploy from 198.51.100.4
+2026-07-20 10:45:34 ERROR app[3624]: database connection refused for request from 203.0.113.7
+2026-07-20 11:00:26 ERROR sshd[4402]: Failed password for admin from 192.0.2.201
+2026-07-20 11:03:21 ERROR sshd[1860]: Failed password for root from 203.0.113.7
+2026-07-20 11:07:59 ERROR sshd[7296]: Failed password for root from 203.0.113.99
+2026-07-20 11:12:58 INFO app[8354]: healthcheck ok for request from 198.51.100.23
+2026-07-20 11:15:43 ERROR sshd[8873]: Failed password for admin from 203.0.113.7
+2026-07-20 11:16:49 INFO sshd[4466]: Accepted password for deploy from 198.51.100.23
+2026-07-20 11:17:58 WARNING sshd[9783]: Connection reset by peer from 198.51.100.23
+2026-07-20 11:18:56 WARNING app[1836]: slow response 1502ms for request from 203.0.113.7
+2026-07-20 11:34:44 WARNING sshd[9138]: Connection reset by peer from 192.0.2.201
+2026-07-20 11:35:49 ERROR app[3479]: database connection refused for request from 192.0.2.146
+2026-07-20 11:50:27 INFO app[2212]: healthcheck ok for request from 198.51.100.4
+2026-07-20 12:02:05 INFO sshd[2013]: Accepted password for deploy from 192.0.2.146
+2026-07-20 12:04:14 ERROR app[7515]: database connection refused for request from 203.0.113.7
+2026-07-20 12:14:13 INFO app[4933]: healthcheck ok for request from 203.0.113.99
+2026-07-20 12:21:29 WARNING sshd[2243]: Connection reset by peer from 192.0.2.146
+2026-07-20 12:26:59 INFO cron[9465]: job backup.sh finished ok from 203.0.113.7
+2026-07-20 12:38:31 INFO app[4246]: healthcheck ok for request from 203.0.113.7
+2026-07-20 12:43:09 INFO cron[4810]: job backup.sh finished ok from 198.51.100.4
+2026-07-20 12:51:04 ERROR sshd[5815]: Failed password for root from 192.0.2.201
+2026-07-20 12:51:20 ERROR sshd[2088]: Failed password for root from 203.0.113.7
+2026-07-20 12:52:42 ERROR sshd[2538]: Failed password for admin from 192.0.2.146
+2026-07-20 12:57:20 WARNING sshd[9188]: Connection reset by peer from 203.0.113.99
+2026-07-20 13:12:29 INFO sshd[6618]: Accepted password for deploy from 203.0.113.7
+2026-07-20 13:18:54 INFO sshd[4902]: Accepted password for deploy from 203.0.113.99
+2026-07-20 13:33:14 ERROR sshd[8079]: Failed password for root from 203.0.113.7
+2026-07-20 13:43:47 WARNING sshd[5856]: Connection reset by peer from 203.0.113.7
+2026-07-20 13:44:02 INFO app[9566]: healthcheck ok for request from 203.0.113.7
+2026-07-20 13:55:28 INFO cron[5805]: job backup.sh finished ok from 198.51.100.23
+2026-07-20 14:00:05 INFO sshd[3100]: Accepted password for deploy from 198.51.100.23
+2026-07-20 14:12:52 INFO sshd[2653]: Accepted password for deploy from 203.0.113.7
+2026-07-20 14:17:47 WARNING sshd[5362]: Connection reset by peer from 203.0.113.7
+2026-07-20 14:21:22 INFO cron[6517]: job backup.sh finished ok from 198.51.100.4

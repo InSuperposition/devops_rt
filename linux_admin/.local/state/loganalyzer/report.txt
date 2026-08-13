@@ -1,0 +1,144 @@
+Log Analysis Report
+===================
+Run at:   2026-08-13 12:30:01 IDT
+File:     /mnt/mac/Users/tensor/code/devops_rt/linux_admin/sample.log
+
+Total lines: 88
+Errors:      29
+Warnings:    18
+
+Top 5 IP addresses:
+     30 203.0.113.7
+     22 198.51.100.23
+     17 192.0.2.146
+      9 203.0.113.99
+      6 198.51.100.4
+Top 5 messages:
+      6 INFO sshd: Accepted password for deploy from 203.0.113.7
+      6 ERROR sshd: Failed password for root from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 198.51.100.23
+      4 WARNING app: slow response 1502ms for request from 198.51.100.23
+
+-------------------------------------------
+
+Log Analysis Report
+===================
+Run at:   2026-08-13 12:32:01 IDT
+File:     /mnt/mac/Users/tensor/code/devops_rt/linux_admin/sample.log
+
+Total lines: 88
+Errors:      29
+Warnings:    18
+
+Top 5 IP addresses:
+     30 203.0.113.7
+     22 198.51.100.23
+     17 192.0.2.146
+      9 203.0.113.99
+      6 198.51.100.4
+Top 5 messages:
+      6 INFO sshd: Accepted password for deploy from 203.0.113.7
+      6 ERROR sshd: Failed password for root from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 198.51.100.23
+      4 WARNING app: slow response 1502ms for request from 198.51.100.23
+
+-------------------------------------------
+
+Log Analysis Report
+===================
+Run at:   2026-08-13 12:34:02 IDT
+File:     /mnt/mac/Users/tensor/code/devops_rt/linux_admin/sample.log
+
+Total lines: 88
+Errors:      29
+Warnings:    18
+
+Top 5 IP addresses:
+     30 203.0.113.7
+     22 198.51.100.23
+     17 192.0.2.146
+      9 203.0.113.99
+      6 198.51.100.4
+Top 5 messages:
+      6 INFO sshd: Accepted password for deploy from 203.0.113.7
+      6 ERROR sshd: Failed password for root from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 198.51.100.23
+      4 WARNING app: slow response 1502ms for request from 198.51.100.23
+
+-------------------------------------------
+
+Log Analysis Report
+===================
+Run at:   2026-08-13 12:36:01 IDT
+File:     /mnt/mac/Users/tensor/code/devops_rt/linux_admin/sample.log
+
+Total lines: 88
+Errors:      29
+Warnings:    18
+
+Top 5 IP addresses:
+     30 203.0.113.7
+     22 198.51.100.23
+     17 192.0.2.146
+      9 203.0.113.99
+      6 198.51.100.4
+Top 5 messages:
+      6 INFO sshd: Accepted password for deploy from 203.0.113.7
+      6 ERROR sshd: Failed password for root from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 198.51.100.23
+      4 WARNING app: slow response 1502ms for request from 198.51.100.23
+
+-------------------------------------------
+
+Log Analysis Report
+===================
+Run at:   2026-08-13 12:38:01 IDT
+File:     /mnt/mac/Users/tensor/code/devops_rt/linux_admin/sample.log
+
+Total lines: 88
+Errors:      29
+Warnings:    18
+
+Top 5 IP addresses:
+     30 203.0.113.7
+     22 198.51.100.23
+     17 192.0.2.146
+      9 203.0.113.99
+      6 198.51.100.4
+Top 5 messages:
+      6 INFO sshd: Accepted password for deploy from 203.0.113.7
+      6 ERROR sshd: Failed password for root from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 198.51.100.23
+      4 WARNING app: slow response 1502ms for request from 198.51.100.23
+
+-------------------------------------------
+
+Log Analysis Report
+===================
+Run at:   2026-08-13 12:40:01 IDT
+File:     /mnt/mac/Users/tensor/code/devops_rt/linux_admin/sample.log
+
+Total lines: 88
+Errors:      29
+Warnings:    18
+
+Top 5 IP addresses:
+     30 203.0.113.7
+     22 198.51.100.23
+     17 192.0.2.146
+      9 203.0.113.99
+      6 198.51.100.4
+Top 5 messages:
+      6 INFO sshd: Accepted password for deploy from 203.0.113.7
+      6 ERROR sshd: Failed password for root from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 203.0.113.7
+      5 INFO app: healthcheck ok for request from 198.51.100.23
+      4 WARNING app: slow response 1502ms for request from 198.51.100.23
+
+-------------------------------------------
+
