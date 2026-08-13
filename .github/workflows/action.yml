@@ -1,0 +1,70 @@
+name: Git exercise
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  job1:
+    name: Greeting and runner details
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Hello
+        run: echo "Hello"
+
+      - name: Print Ubuntu version
+        run: lsb_release --description --release --codename
+
+      - name: Print commit SHA
+        env:
+          COMMIT_SHA: ${{ github.sha }}
+        run: 'echo "Commit SHA: $COMMIT_SHA"'
+
+  job2:
+    name: Print and test repository files
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: git
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: List exercise files
+        run: find . -maxdepth 1 -type f -print | sort
+
+      - name: Print text files
+        run: |
+          for file in ./*.txt; do
+            printf '\n--- %s ---\n' "$file"
+            cat -- "$file"
+          done
+
+      - name: Run test script
+        run: bash test.sh
+
+  job3:
+    name: Print personal details
+    runs-on: ubuntu-latest
+    env:
+      FIRST_NAME: יער
+    steps:
+      - name: Print first name
+        run: 'echo "First name: $FIRST_NAME"'
+
+      - name: Print last name
+        run: |
+          last_name='גליל'
+          echo "Last name: $last_name"
+
+      - name: Print phone number
+        env:
+          PHONE_NUMBER: ${{ secrets.PHONE_NUMBER }}
+        run: |
+          if [[ -z "$PHONE_NUMBER" ]]; then
+            echo "PHONE_NUMBER secret is not configured" >&2
+            exit 1
+          fi
+          echo "Phone number: $PHONE_NUMBER"
