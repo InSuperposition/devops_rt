@@ -2,7 +2,10 @@ name: Git exercise
 
 on:
   workflow_dispatch:
-
+  push:
+    paths:
+      - "git/**"
+      - ".github/workflows/action.yml"
 permissions:
   contents: read
 
